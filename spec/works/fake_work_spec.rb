@@ -1,5 +1,5 @@
 require 'spec_helper'
-require 'linkeddata
+require 'linkeddata'
 
 describe 'fake work spec' do
 	it 'fake spec' do
